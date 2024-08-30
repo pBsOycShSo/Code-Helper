@@ -1,8 +1,8 @@
 # Code-Helper
 It's helping to code your programs and it's easy to use. Try it.
-## Installation
+## Installation :
 It's just like a normal software. You can install it as normally.
-## Usage
+## Usage :
 ```
 key,<short form>,<something you want to type>
 ```
@@ -19,6 +19,8 @@ key,sr,System.in.read(
 key,psvm,public static void main(String args[]){
 ```
 If you type this ```sop``` and after press space it will be changing to this ```System.out.print("```.
+## After pressing start button it do like this :
+![](https://github.com/KevinMark-MM/Code-Helper/blob/main/vid.gif)
 ```
 If you need more, you can create your own.
 
@@ -27,5 +29,4 @@ Rules:
       [2] It must be sort by a comma.
 
 ```
-
 ##  🤝 If you interested my works, follow for more.
