@@ -29,4 +29,4 @@ Rules:
       [2] It must be sort by a comma.
 
 ```
-##  🤝 If you interested my works, follow for more.
+##  🤝 If you are interested in my works, follow for more.
