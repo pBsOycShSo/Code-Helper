@@ -1,13 +1,17 @@
 # Code-Helper
 <img src="CH.png">
 It's helping to code your programs and it's easy to use. Try it.
+
 ## Installation :
 It's just like a normal software. You can install it as normally.
+
 ## Usage :
+
 ```
 key,<short form>,<something you want to type>
 ```
 ### Just like this
+      
 ```text
 key,im,import
 key,),);
