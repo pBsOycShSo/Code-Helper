@@ -7,6 +7,7 @@ from customtkinter import CTkLabel, CTkTextbox, CTkButton
 
 app = ctk.CTk()
 app.geometry("450x370")
+app.iconbitmap("CustomTkinter_icon_Windows.ico")
 ctk.set_appearance_mode("dark")
 b = 0
 dire = os.getcwd()
