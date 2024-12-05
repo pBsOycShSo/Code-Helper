@@ -34,6 +34,6 @@ Rules:
       [2] It must be sort by a comma.
 
 ```
-<a href="blob:https://github.com/4e65b790-3700-48ef-b68e-40cb798238e6" download>Click to Download</a>
+<a href="https://github.com/4e65b790-3700-48ef-b68e-40cb798238e6" download>Click to Download</a>
 
 ##  🤝 If you are interested in my works, follow for more.
